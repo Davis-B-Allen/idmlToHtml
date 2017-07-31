@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 
 directory = "/Users/davisallen/Projects/Python/idmlToHtml/assets/Example_IDML_File/"
-output_html_file = "/Users/davisallen/Projects/Python/idmlToHtml/output/testoutput/index.html"
+output_html_file = "/Users/davisallen/Projects/Python/idmlToHtml/output/index.html"
 
 stories = []
 
@@ -41,7 +41,6 @@ for key, value in story_xml_trees.items():
     contents = root.iter('Content')
     for content in contents:
         fout.write("    <p>" + content.text + "</p>\n")
-        print(content.text)
 
 html_template_end = """</BODY>
 </HTML>"""
