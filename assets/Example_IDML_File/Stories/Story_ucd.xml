@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.4">
+	<Story Self="ucd" AppliedTOCStyle="n" UserText="true" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Normal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/98,75,47,47" PointSize="8" HorizontalScale="89.9993896484375" Tracking="150">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>APPLICATION DEVELOPMENT</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>Justo odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolor.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/98,75,47,47" PointSize="8" HorizontalScale="89.9993896484375" Tracking="150">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>DATABASE MANAGEMENT</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonum.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/98,75,47,47" PointSize="8" HorizontalScale="89.9993896484375" Tracking="150">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>NETWORK ADMINISTRATION</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>Feugait nulla facilisi. Lorem ipsum dolor sit amet, conse ctetuer laoreet dolor.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/98,75,47,47" PointSize="8" HorizontalScale="89.9993896484375" Tracking="150">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>PROJECT MANAGEMENT</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="8">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5">
+				<Properties>
+					<Leading type="unit">14</Leading>
+				</Properties>
+				<Content>Nulla facilisi. Lorem ipsum dolorsit amet, conse ctetuer laoreet dolor.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

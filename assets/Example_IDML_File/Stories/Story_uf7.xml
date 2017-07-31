@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.4">
+	<Story Self="uf7" AppliedTOCStyle="n" UserText="true" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Normal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>5432 Any Street West, Townsville, State 54321       Tel </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/0,63,98,0" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>555.543.5432       Fax</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/0,63,98,0" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content>  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Content> 555.543.5433</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/0,63,98,0" FontStyle="Bold" PointSize="7" HorizontalScale="89.9993896484375" FillTint="75">
+				<Properties>
+					<Leading type="unit">12</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

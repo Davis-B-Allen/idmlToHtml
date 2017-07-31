@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Graphic xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.4">
+	<Color Self="Color/0,63,98,0" Model="Process" Space="CMYK" ColorValue="0 63 98 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="0,63,98,0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatchc" />
+	<Color Self="Color/50,18,100,0" Model="Process" Space="CMYK" ColorValue="50 18 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="50,18,100,0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatchb" />
+	<Color Self="Color/98,75,47,47" Model="Process" Space="CMYK" ColorValue="98 75 47 47" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="98,75,47,47" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatcha" />
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch2">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/Blue" Model="Spot" Space="RGB" ColorValue="0 0 255" ColorOverride="Normal" SpotInkAliasSpotColorReference="n" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Blue" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch6" />
+	<Color Self="Color/C=0 M=0 Y=21474836 K=0" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=0 Y=21474836 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch9" />
+	<Color Self="Color/C=0 M=21474836 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=21474836 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch8" />
+	<Color Self="Color/C=21474836 M=0 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=21474836 M=0 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch7" />
+	<Color Self="Color/Cyan" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Cyan" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/Green" Model="Spot" Space="RGB" ColorValue="0 255 0" ColorOverride="Normal" SpotInkAliasSpotColorReference="n" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Green" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch5" />
+	<Color Self="Color/Magenta" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Magenta" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch1">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/Red" Model="Spot" Space="RGB" ColorValue="255 0 0" ColorOverride="Normal" SpotInkAliasSpotColorReference="n" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Red" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch4" />
+	<Color Self="Color/Registration" Model="Registration" Space="CMYK" ColorValue="100 100 100 100" ColorOverride="Specialregistration" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Registration" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch3">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Sangam Color" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Sangam Color" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Yellow" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Yellow" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Color>
+	<Color Self="Color/u207" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u208" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u209" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u20a" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u20b" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u20c" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u20e" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u20f" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u211" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u212" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u214" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u215" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Ink>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Ink>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Ink>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Ink>
+	<Ink Self="Ink/Red" Name="Red" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="0.7550781115038505" PrintInk="true" TrapOrder="5" InkType="Normal" />
+	<Ink Self="Ink/Green" Name="Green" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="0.6106870412862276" PrintInk="true" TrapOrder="6" InkType="Normal" />
+	<Ink Self="Ink/Blue" Name="Blue" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.1486225916569277" PrintInk="true" TrapOrder="7" InkType="Normal" />
+	<PastedSmoothShade Self="PastedSmoothShade/u217" ContentsVersion="0" ContentsType="ConstantShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 1 0 0" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<PastedSmoothShade Self="PastedSmoothShade/u218" ContentsVersion="0" ContentsType="ConstantShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 1 0 0" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<PastedSmoothShade Self="PastedSmoothShade/u219" ContentsVersion="0" ContentsType="ConstantShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 1 0 0" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<PastedSmoothShade Self="PastedSmoothShade/u21a" ContentsVersion="0" ContentsType="ConstantShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 1 0 0" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u1adColorGroupSwatch0">
+		<Properties>
+			<Label>
+				<KeyValuePair Key="Label" Value="" />
+			</Label>
+		</Properties>
+	</Swatch>
+	<Gradient Self="Gradient/u20d" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="u20dGradientStop0" StopColor="Color/u20b" Location="0" />
+		<GradientStop Self="u20dGradientStop1" StopColor="Color/u20c" Location="100" Midpoint="50" />
+	</Gradient>
+	<Gradient Self="Gradient/u210" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="u210GradientStop0" StopColor="Color/u20e" Location="0" />
+		<GradientStop Self="u210GradientStop1" StopColor="Color/u20f" Location="100" Midpoint="50" />
+	</Gradient>
+	<Gradient Self="Gradient/u213" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="u213GradientStop0" StopColor="Color/u211" Location="0" />
+		<GradientStop Self="u213GradientStop1" StopColor="Color/u212" Location="100" Midpoint="50" />
+	</Gradient>
+	<Gradient Self="Gradient/u216" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="u216GradientStop0" StopColor="Color/u214" Location="0" />
+		<GradientStop Self="u216GradientStop1" StopColor="Color/u215" Location="100" Midpoint="50" />
+	</Gradient>
+	<StrokeStyle Self="StrokeStyle/$ID/Triple_Stroke" Name="$ID/Triple_Stroke" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThinThick" Name="$ID/ThickThinThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThickThin" Name="$ID/ThinThickThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThick" Name="$ID/ThickThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThin" Name="$ID/ThickThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThick" Name="$ID/ThinThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThin" Name="$ID/ThinThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/Japanese Dots" Name="$ID/Japanese Dots" />
+	<StrokeStyle Self="StrokeStyle/$ID/White Diamond" Name="$ID/White Diamond" />
+	<StrokeStyle Self="StrokeStyle/$ID/Left Slant Hash" Name="$ID/Left Slant Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Right Slant Hash" Name="$ID/Right Slant Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Straight Hash" Name="$ID/Straight Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Wavy" Name="$ID/Wavy" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dotted" Name="$ID/Canned Dotted" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dashed 3x2" Name="$ID/Canned Dashed 3x2" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dashed 4x4" Name="$ID/Canned Dashed 4x4" />
+	<StrokeStyle Self="StrokeStyle/$ID/Dashed" Name="$ID/Dashed" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+</idPkg:Graphic>

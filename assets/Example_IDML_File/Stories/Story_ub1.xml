@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.4">
+	<Story Self="ub1" AppliedTOCStyle="n" UserText="true" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Normal" Justification="LeftJustified">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" PointSize="7.5" FillTint="75">
+				<Properties>
+					<Leading type="unit">16</Leading>
+				</Properties>
+				<Content>Lorem ipsum dolor sit amet, consec tetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam. Ut wisi enim ad minim veniam, quis. Brevitas dolore, refero, torqueo valde ea vero antehabeo sit autem occuro, adsum. Luptatum magna volutpat distineo vel, nobis ingenium multo, epulae quidne vindic dolor ipso. Sino sudo augue, sagaciter ventosus pertineo, quidem proprius. Pagus in populus quis consectetuer delenit nobis. Quis defui odio diam ut, antehabeo vel quod sit. Antehabeo opes suscipere paratus wisi te quia. Dolore praesent nostrud, eros iriure enim vero autem quia luctus erat multo, virtus vero comis. Damnum os in neo plaga praesent valid. Brevitas dolore, refero, torqueo valde ea vero antehabeo sit autem occuro, adsum. Luptatum magna volutpat distineo.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
