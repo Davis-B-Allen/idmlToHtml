@@ -36,9 +36,8 @@ html_template_start = """<HTML>
 fout.write(html_template_start)
 
 # walk through story_xml_roots and findall / search for appropriate children (or maybe iter for them)
-for key, value in story_xml_trees.items():
-    root = value
-    contents = root.iter('Content')
+for key, value in story_xml_roots.items():
+    contents = value.iter('Content')
     for content in contents:
         fout.write("    <p>" + content.text + "</p>\n")
 
